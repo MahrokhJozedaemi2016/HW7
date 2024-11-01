@@ -14,7 +14,7 @@ the target website. You must make your program generate a QR code that takes som
 
 ## QR Code for GitHub Profile
 
-![QR Code linking to my GitHub](./qr_codes/QRCode_20241101231409.png)
+![QR Code linking to my GitHub](./qr_codes/QRCode_20241101235337.png)
 
 2.  Add an image of viewing the log of successfully creating the QR code below.
  PUT YOUR LOG IMAGE HERE
