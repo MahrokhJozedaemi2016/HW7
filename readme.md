@@ -16,8 +16,9 @@ the target website. You must make your program generate a QR code that takes som
 
 ![QR Code linking to my GitHub](./qr_codes/QRCode_20241101235337.png)
 
-2.  Add an image of viewing the log of successfully creating the QR code below.
- PUT YOUR LOG IMAGE HERE
+2.  ## Log of QR Code Creation
+
+![Log showing successful QR code creation](./image/log_image.jpg)
 ## Lesson Video
 
 1.  [Scaling and Backend Software Engineering](https://youtu.be/v3LxCmYQVS4)
